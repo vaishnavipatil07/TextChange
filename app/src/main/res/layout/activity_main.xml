@@ -7,7 +7,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hey_pankaj_ingale"
+        android:text="@string/hey_vaishnavi_patil"
         android:textColor="#D70B50"
         android:textSize="20sp"
         android:layout_centerHorizontal="true"
